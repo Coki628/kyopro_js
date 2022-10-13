@@ -1,5 +1,5 @@
 # kyopro_js
-- 標準入力の都合上、OSはLinux想定。
+- 標準入力の都合上、OSはLinux想定。WSLとか使うといい。
 - Nodeの12系を使う想定。`nvm use 12`とかしておく。(AtCoderのバージョンと合わせた)
 - 手元実行ではEOFを伝えるために入力が終わったらctrl+Dを押す。
 
