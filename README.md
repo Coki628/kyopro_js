@@ -10,6 +10,13 @@
 https://qiita.com/oimo23/items/34b3ade53f63e0b71cbe  
 ・JSで競プロするに当たってよく使うものに関して色々注意点を書いてくれている。  
 
+## 練習問題
+
+### AtCoder
 https://kenkoooo.com/atcoder/#/list/sortBy=problemModel&sortOrder=asc&fromDiff=0?fromDiff=0&sortBy=problemModel&sortOrder=asc  
 ・AtCoder ProblemsでDiffが低い順に問題を並べておいた。  
 　基本的にはこれを上から進めていけばいいと思う。(一番上の赤丸のやつは無視しておいて)
+
+### Paiza
+https://paiza.jp/challenges/ranks/d  
+・AtCoderが難しかったらこっち。上記リンクD問題の易しいやつから進めていけばいいと思う。
